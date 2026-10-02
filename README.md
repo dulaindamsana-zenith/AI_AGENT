@@ -49,3 +49,6 @@ config=types.GenerateContentConfig(
 )
 ```
 Replace the text inside the triple quotes with any topic restrictions, guiding philosophies, or operating protocols that fit your needs.
+
+## License
+This project is licensed under 
